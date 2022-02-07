@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x5f6fa7d5EF838421abD3834970a55DD82083bbca",
+  "OWNER_ADDRESS": "0x02213AdE12d401ae45C43571FdE1f54251e19490",
+
+  "SCAN_LINK": "https://etherscan.io/address/0x5f6fa7d5EF838421abD3834970a55DD82083bbca",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETh",
+    "ID": 11
+  },
+  "NFT_NAME": "Racey bear pit crew",
+  "SYMBOL": "RBPC",
+  "MAX_SUPPLY": 10701,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.08,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Raceybearpitcrew",
+  "SHOW_BACKGROUND": true
+}
